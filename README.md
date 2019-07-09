@@ -17,7 +17,7 @@ This part is mainly following the [tutorial by Douglas Watson](https://douglas-w
 * Open the Script editor (Tools/Script editor)
 * Add [Code.gs](Code.gs) file to the app (or copy and paste the content into the open file)
 * Copy the id of the work sheet from the url of the sheet:
-	>  https://docs.google.com/spreadsheets/d/THIS IS THE ID/edit#gid=0
+	>  https://docs.google.com/spreadsheets/d/THIS_IS_THE_ID/edit#gid=0
 * add it as a  script parameter 'sheetID' under File/Project Properties
 * Deploy as web app with the following settings
 
