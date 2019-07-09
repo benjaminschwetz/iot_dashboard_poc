@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+project.Rproj
+R/soil_moisture/rsconnect
+
+ git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
