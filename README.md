@@ -9,7 +9,7 @@ This part is mainly following the [tutorial by Douglas Watson](https://douglas-w
 * Add names to first column: timestap, device, sensor, value
 * Enable read/write access for anyone with link
 * Open the Script editor (Tools/Script editor)
-* Add [code.gs](../code.gs) file to the app (or copy and paste the content into the open file)
+* Add [Code.gs](../Code.gs) file to the app (or copy and paste the content into the open file)
 * Copy the url of the work sheet and add it as a  script parameter 'sheetID' under File/Project Properties
 * Deploy as web app with the following settings:
 
